@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap');
+body{
+	font-family: 'Quicksand';
+	font-size: 14px;
+	color: #727272;
+}
+
+
+#thank-you{
+	background-image: url("../img/background.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	color: #FFFFFF;
+	padding-top: 10% 0;	
+}
+
+#thank-you h1{
+	font-size: 80px;
+	line-height: 1.6;
+	text-align: center;
+	padding-top: 10%;
+	
+}
+
+#thank-you p{
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 25px;
+	font-size: 18px;
+}
+
+#thank-you .fab{
+	padding-top: 25px;
+	font-size: 30px;
+	padding-left: 10px;
+}
+
+.btn{
+	padding: 15px 50px;
+	font-size: 20px; 
+	border: 0;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.btn-turquesa{
+	background-color: #58c4c4;
+}
+
+
+
+.btn-turquesa:hover{
+	background-color: #fff;
+	color: #3f4d6b;
+}
+
+footer p{
+	color: #414141;
+	font-family: 'Futura';
+	letter-spacing: 2px;
+	font-weight: 300;
+	padding-top: 20px;
+	text-align: center;
+}
+
+
